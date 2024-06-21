@@ -10,6 +10,8 @@ A secure web application built with Flask for managing passwords. Users can regi
 
 ![Capture4](https://github.com/Anu11411/PasswordManager/blob/main/Output_Screenshots/Capture3.png?raw=true)
 
+![Capture5](https://github.com/Anu11411/PasswordManager/blob/main/Output_Screenshots/Screenshot%20(51).png?raw=true)
+
 
 
 ## Features
